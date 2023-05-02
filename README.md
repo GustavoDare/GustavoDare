@@ -11,8 +11,8 @@
 
 ### GitHub Stats:
 <div>
-  <img width="500px" height="150px" src="https://github-readme-stats.vercel.app/api?username=GustavoDare&show_icons=True&hide=contribs,prs&count_private=true,&theme=highcontrast" />
-  <img width="500px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDare&layout=compact&theme=highcontrast" />
+  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=GustavoDare&show_icons=True&hide=contribs,prs&count_private=true,&theme=highcontrast" />
+  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDare&layout=compact&theme=highcontrast" />
 
 </div>
 
