@@ -1,16 +1,32 @@
-### Hi there 👋
+### Studying in this moment
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Social Media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavodaré/)
+<!-- 
+[![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#link)
+-->
+
+### GitHub Stats:
+<div>
+  <img width="500px" height="150px" src="https://github-readme-stats.vercel.app/api?username=GustavoDare&show_icons=True&hide=contribs,prs&count_private=true,&theme=highcontrast" />
+  <img width="500px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDare&layout=compact&theme=highcontrast" />
+
+</div>
+
+[![Gustavo Daré's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoDare&theme=github-compact&area=true)](https://github.com/GustavoDare/github-readme-activity-graph)
 
 <!--
-**GustavoDare/GustavoDare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=GustavoDare&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+<div align="center">
+    <br><p align="center"><b>Visitors Count</b></p>
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoDare}/count.svg" /></p><br>
+</div>
 -->
