@@ -9,26 +9,9 @@
 [![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#link)
 -->
 
-<!--
 ### GitHub Stats:
-![GustavoDare's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDare&show_icons=true&theme=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDare&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center">
-  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=GustavoDare&show_icons=True&hide=contribs,prs&count_private=true,&theme=highcontrast" />
-  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDare&layout=compact&theme=highcontrast" />
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoDare&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDare&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
--->
-
-<!--
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=GustavoDare&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
--->
-
-<!--
-<div align="center">
-    <br><p align="center"><b>Visitors Count</b></p>
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoDare}/count.svg" /></p><br>
-</div>
--->
