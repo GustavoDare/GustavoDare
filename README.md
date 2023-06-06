@@ -1,7 +1,14 @@
 ### Studying in this moment
+<div>
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+</div>
+
+<!-- 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-<!-- ![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
+![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 
 ### Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavodaré/)
